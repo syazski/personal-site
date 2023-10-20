@@ -1,0 +1,60 @@
+/* h1, body, nav are generally the same across pages */
+h1 {
+    font-size: 30px;
+    color: rgb(99, 66, 62);
+}
+
+body {
+    
+    width: 800px;
+    margin-left: 20%;
+    background-color: burlywood;
+
+}
+
+nav {
+    font-color:black;
+    padding: 0px 0px 10px;
+    font-size: 12px;
+}
+.about {
+    width:700px;
+
+}
+
+.container {
+    display: flex;
+    border: 1px solid;
+    padding: 10px;
+    background-color: antiquewhite;
+
+  }
+  
+.image {
+    padding: 20px;
+  }
+  
+.quote {
+    font-size: 13px;
+    padding-top: 5px;
+  }
+
+.mission {
+    border: 1px solid;
+    padding: 10px;
+    font-size: 12px;
+    background-color: rgb(239, 66, 47);
+}
+
+#syaz-image {
+    float: right;
+    width: 180px;
+    border-radius: 100px 100px 20px 20px;
+    border: 12px dotted #A47D5E;
+}
+
+.gifs {
+    height: 150px;
+    width: 200px;
+}
+
