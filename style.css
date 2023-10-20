@@ -13,10 +13,11 @@ body {
 }
 
 nav {
-    font-color:black;
+    color:black;
     padding: 0px 0px 10px;
-    font-size: 12px;
+    font-size: 20px;
 }
+
 .about {
     width:700px;
 
@@ -31,7 +32,7 @@ nav {
   }
   
 .image {
-    padding: 20px;
+    padding: 50px 0px 0px 0px;
   }
   
 .quote {
@@ -48,13 +49,14 @@ nav {
 
 #syaz-image {
     float: right;
-    width: 180px;
-    border-radius: 100px 100px 20px 20px;
-    border: 12px dotted #A47D5E;
+    width: 250px;
+    border-radius: 100px 100px 100px 100px;
+    border: 12px dotted rgb(239, 66, 47);
 }
 
 .gifs {
     height: 150px;
-    width: 200px;
+    width: 180px;
+    padding: 5px;
 }
 
